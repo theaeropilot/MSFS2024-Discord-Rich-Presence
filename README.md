@@ -3,10 +3,10 @@
 
 Show Discord users what you are flying in Microsoft Flight Simulator 2024.  
 
-This tool integrates Microsoft Flight Simulator 2024 with Discord Rich Presence, displaying real-time flight details such as aircraft type, altitude, and location in your Discord status.  
+This tool integrates Microsoft Flight Simulator 2024 with Discord Rich Presence, displaying real-time flight details such as aircraft type, altitude, and location on your Discord profile.  
 
 ## Features  
-- Displays aircraft name, altitude, speed, and location in Discord Rich Presence  
+- Displays aircraft name, altitude, speed, and location in Discord  
 - Automatically connects to MSFS2024 via SimConnect  
 - Runs in the background with minimal resource usage  
 
