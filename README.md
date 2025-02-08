@@ -12,7 +12,7 @@ This tool integrates Microsoft Flight Simulator 2024 with Discord Rich Presence,
 - User-friendly UI for monitoring connection status  
 
 ## Setup & Installation  
-1. Download [MSFS2024 Rich Presence.exe](https://github.com/theaeropilot/MSFS2024-Discord-Rich-Presence/blob/main/MSFS2024%20Rich%20Presence.exe).   
+1. Download [MSFS2024 Rich Presence.exe](https://github.com/theaeropilot/MSFS2024-Discord-Rich-Presence/blob/main/MSFS2024_Rich_Presence.exe).   
 2. Run the executable and your flight details will automatically be displayed on Discord.  
 
 ## Built With  
